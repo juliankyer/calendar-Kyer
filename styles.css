@@ -26,6 +26,7 @@ p {
   background-color: lightgrey;
   grid-column: 2/4;
   grid-row: 1/26;
+  padding: 10px;
 }
 
 .hour {
